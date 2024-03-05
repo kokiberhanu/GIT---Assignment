@@ -1,3 +1,2 @@
-This is file A>>.txt
-echo This is file A
-This is file A
+File A is modified
+
